@@ -19,7 +19,7 @@ const ClearConfigForm = function(text){
 
     if (!text)
     {
-        txt = 'Тут будут настройки устройств. Выделите любое на схеме.';
+        txt = '';
     }
 
     // Clear all child
